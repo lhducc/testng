@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/lhducc/testng/actions/workflows/ci.yml/badge.svg)](https://github.com/lhducc/testng/actions/workflows/ci.yml)
+
 # Blood Donation Support System
 
 This is a Spring Boot project for Blood Donation Support System, providing user registration, authentication, and blood donation management.

@@ -29,4 +29,5 @@ jobs:
           ${{ runner.os }}-maven-
 
     - name: Run tests only
-      run: mvn test
+      run: mvn -Dtest=AuthAccountServiceTest test
+

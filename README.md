@@ -46,7 +46,6 @@ src
 
 ### 2️⃣ Run locally
 
-```bash
 # Build the project
 mvn clean install
 
